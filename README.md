@@ -37,3 +37,17 @@ The performance of the three models on the test set is as follows:
 Both **Gaussian Naive Bayes** and **Logistic Regression** achieved the highest test accuracy of approximately 95.6%, while the **Decision Tree** classifier scored slightly lower at 92.98%.
 
 Confusion matrices and classification reports were also generated to provide detailed insights into precision, recall, and F1-scores for each class.
+
+## Visualization
+
+Various visualizations were generated to better understand the dataset and evaluate the models:
+
+- **Pie Chart**: Shows the distribution of benign and malignant tumor classes.
+
+- **Pairplots**: Illustrate relationships between key tumor features, colored by diagnosis.
+
+- **Correlation Heatmaps**: Highlight feature correlations within the dataset.
+
+- **Confusion Matrix Heatmaps**: Visualize prediction performance for each model.
+
+These visualizations provided valuable insights into the data structure and helped assess model effectiveness.
