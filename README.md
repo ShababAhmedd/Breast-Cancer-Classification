@@ -78,6 +78,13 @@ pip install numpy pandas matplotlib seaborn scikit-learn
 
 4. Place the dataset CSV file (`data.csv`) in the specified directory.
 
-5. **Run the Jupyter Notebook** or Python scripts step by step to preprocess the data, train models, and evaluate results.
+5. **Run the Jupyter Notebook** step by step to preprocess the data, train models, and evaluate results.
 
 6. Visualizations and evaluation metrics will be **generated automatically**.
+
+   
+## Conclusion
+
+This project demonstrated the use of machine learning algorithms to classify breast tumors as malignant or benign based on various tumor characteristics. Both **Gaussian Naive Bayes** and **Logistic Regression** models achieved strong accuracy (~95.6%), while the **Decision Tree** classifier performed slightly lower (~93%).
+
+Future work could include exploring more advanced models, hyperparameter tuning, and incorporating additional data preprocessing techniques to further improve classification performance.
