@@ -44,7 +44,7 @@ Various visualizations were generated to better understand the dataset and evalu
 
 - **Pie Chart**: Shows the distribution of benign and malignant tumor classes. ![Pie Chart](images/pie_chart.png)
 
-- **Pairplots**: Illustrate relationships between key tumor features, colored by diagnosis. ![Pairplots](images/pairplot.png) ]
+- **Pairplots**: Illustrate relationships between key tumor features, colored by diagnosis. ![Pairplots](images/pairplot.png) 
 - **Correlation Heatmaps**: Highlight feature correlations within the dataset.![Correlation Heatmap1](images/correlation_heatmap.png) 
 
 - **Confusion Matrix Heatmaps**: Visualize prediction performance for each model.
