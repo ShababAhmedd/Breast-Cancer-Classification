@@ -56,6 +56,8 @@ Various visualizations were generated to better understand the dataset and evalu
   Decision Tree:  
   ![Confusion Matrix DT](images/confusion_matrix_dt.png)
 
+- **Accuracy Comparison Bar Chart**:  
+  ![Accuracy Comparison](images/accuracy_comparison.png)
 
 These visualizations provided valuable insights into the data structure and helped assess model effectiveness.
 
