@@ -11,3 +11,15 @@ Preprocessing steps performed include:
 - Encoding the `diagnosis` column to numerical values: malignant as 1 and benign as 0.  
 - Applying Min-Max scaling to all feature columns to normalize their ranges.  
 - Splitting the dataset into training and testing subsets with an 80-20 ratio, ensuring stratification by the diagnosis label.
+
+## Model Implementation
+
+This project implements three machine learning models to classify breast tumors as malignant or benign:
+
+- **Gaussian Naive Bayes**: A probabilistic classifier based on Bayes’ theorem assuming feature independence.
+
+- **Logistic Regression**: A linear model used for binary classification, trained with a fixed random seed for reproducibility.
+
+- **Decision Tree Classifier**: A tree-based model using entropy as the criterion for splitting and a fixed random seed for consistent results.
+
+Each model was trained on 80% of the dataset (training set) and evaluated on the remaining 20% (test set). Both training and testing accuracies were calculated to measure the models’ performance.
