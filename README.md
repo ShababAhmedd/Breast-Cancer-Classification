@@ -42,7 +42,7 @@ Confusion matrices and classification reports were also generated to provide det
 
 Various visualizations were generated to better understand the dataset and evaluate the models:
 
-- **Pie Chart**: Shows the distribution of benign and malignant tumor classes.
+- **Pie Chart**: Shows the distribution of benign and malignant tumor classes. ![Pie Chart](images/pie_chart.png)
 
 - **Pairplots**: Illustrate relationships between key tumor features, colored by diagnosis.
 
