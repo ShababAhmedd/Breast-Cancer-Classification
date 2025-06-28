@@ -23,3 +23,17 @@ This project implements three machine learning models to classify breast tumors 
 - **Decision Tree Classifier**: A tree-based model using entropy as the criterion for splitting and a fixed random seed for consistent results.
 
 Each model was trained on 80% of the dataset (training set) and evaluated on the remaining 20% (test set). Both training and testing accuracies were calculated to measure the models’ performance.
+
+## Results
+
+The performance of the three models on the test set is as follows:
+
+| Model                 | Test Accuracy (%) |
+|----------------------|-------------------|
+| Gaussian Naive Bayes | 95.61             |
+| Logistic Regression  | 95.61             |
+| Decision Tree        | 92.98             |
+
+Both **Gaussian Naive Bayes** and **Logistic Regression** achieved the highest test accuracy of approximately 95.6%, while the **Decision Tree** classifier scored slightly lower at 92.98%.
+
+Confusion matrices and classification reports were also generated to provide detailed insights into precision, recall, and F1-scores for each class.
