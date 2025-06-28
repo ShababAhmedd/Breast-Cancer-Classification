@@ -12,6 +12,17 @@ Preprocessing steps performed include:
 - Applying Min-Max scaling to all feature columns to normalize their ranges.  
 - Splitting the dataset into training and testing subsets with an 80-20 ratio, ensuring stratification by the diagnosis label.
 
+
+## Project Structure
+
+Breast-Cancer-Classification/
+├── images/                          # Folder containing visualization images used in README
+├── Breast Cancer detection.ipynb   # Jupyter Notebook with full analysis and model implementation
+├── data.csv                        # Breast cancer dataset in CSV format
+├── project report_Group-1.pdf      # Detailed project report document
+└── README.md                       # This README file
+
+
 ## Model Implementation
 
 This project implements three machine learning models to classify breast tumors as malignant or benign:
