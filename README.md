@@ -14,14 +14,14 @@ Preprocessing steps performed include:
 
 
 ## Project Structure
-
+```
 Breast-Cancer-Classification/
 ├── images/                          # Folder containing visualization images used in README
 ├── Breast Cancer detection.ipynb   # Jupyter Notebook with full analysis and model implementation
 ├── data.csv                        # Breast cancer dataset in CSV format
 ├── project report_Group-1.pdf      # Detailed project report document
 └── README.md                       # This README file
-
+```
 
 ## Model Implementation
 
