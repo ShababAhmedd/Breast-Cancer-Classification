@@ -51,3 +51,19 @@ Various visualizations were generated to better understand the dataset and evalu
 - **Confusion Matrix Heatmaps**: Visualize prediction performance for each model.
 
 These visualizations provided valuable insights into the data structure and helped assess model effectiveness.
+
+## Dependencies
+
+Make sure you have the following Python libraries installed before running the code:
+
+- `numpy`
+- `pandas`
+- `matplotlib`
+- `seaborn`
+- `scikit-learn`
+
+You can install them using the following command:
+
+```bash
+pip install numpy pandas matplotlib seaborn scikit-learn
+```
