@@ -67,3 +67,17 @@ You can install them using the following command:
 ```bash
 pip install numpy pandas matplotlib seaborn scikit-learn
 ```
+
+## How to Run the Code
+
+1. **Clone** this repository to your local machine.
+
+2. Ensure you have **Python 3.6 or above** installed.
+
+3. **Install dependencies** as listed above.
+
+4. Place the dataset CSV file (`data.csv`) in the specified directory.
+
+5. **Run the Jupyter Notebook** or Python scripts step by step to preprocess the data, train models, and evaluate results.
+
+6. Visualizations and evaluation metrics will be **generated automatically**.
