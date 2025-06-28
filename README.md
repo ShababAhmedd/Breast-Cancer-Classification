@@ -48,6 +48,7 @@ Various visualizations were generated to better understand the dataset and evalu
 - **Correlation Heatmaps**: Highlight feature correlations within the dataset.![Correlation Heatmap1](images/correlation_heatmap.png) 
 
 - **Confusion Matrix Heatmaps**: Visualize prediction performance for each model.
+  
    Naive Bayes:  
   ![Confusion Matrix NB](images/confusion_matrix_nb.png)  
   Logistic Regression:  
