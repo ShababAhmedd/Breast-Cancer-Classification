@@ -45,9 +45,16 @@ Various visualizations were generated to better understand the dataset and evalu
 - **Pie Chart**: Shows the distribution of benign and malignant tumor classes. ![Pie Chart](images/pie_chart.png)
 
 - **Pairplots**: Illustrate relationships between key tumor features, colored by diagnosis. ![Pairplots](images/pairplot.png) ]
-- **Correlation Heatmaps**: Highlight feature correlations within the dataset.![Correlation Heatmap1](images/correlation_heatmap.png) ![Correlation Heatmap2](images/correlation_heatmap2.png)
+- **Correlation Heatmaps**: Highlight feature correlations within the dataset.![Correlation Heatmap1](images/correlation_heatmap.png) 
 
 - **Confusion Matrix Heatmaps**: Visualize prediction performance for each model.
+   Naive Bayes:  
+  ![Confusion Matrix NB](images/confusion_matrix_nb.png)  
+  Logistic Regression:  
+  ![Confusion Matrix LR](images/confusion_matrix_lr.png)  
+  Decision Tree:  
+  ![Confusion Matrix DT](images/confusion_matrix_dt.png)
+
 
 These visualizations provided valuable insights into the data structure and helped assess model effectiveness.
 
